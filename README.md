@@ -26,6 +26,17 @@ npm start
 npm run build
 ```
 
+## Config for webpack
+
+```javascript
+Common config for webpack is in webpack.common.js file. This file is used for both development and production mode.
+
+Path: './webpack.config.js'
+
+Development config for webpack is in `webpack.dev.js` file.
+Production config for webpack is in `webpack.prod.js` file.
+```
+
 ## Resources
 
 Webpack Documentation: https://webpack.js.org/concepts/
