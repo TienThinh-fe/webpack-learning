@@ -40,5 +40,3 @@ Production config for webpack is in `webpack.prod.js` file.
 ## Resources
 
 Webpack Documentation: https://webpack.js.org/concepts/
-
-Tutorial: https://youtu.be/MpGLUVbqoYQ?si=RE-vMuN4dYYWVGUj
